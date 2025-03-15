@@ -1,4 +1,4 @@
-🌾 AI-Powered Crop Recommendation System 🚀🌱
+#🌾 AI-Powered Crop Recommendation System 🚀🌱
 Smart Farming Starts Here! This AI-driven Crop Recommendation System helps farmers and agriculture enthusiasts make informed decisions on the best crop to grow based on environmental factors. Powered by XGBoost, this model achieves an outstanding 98% accuracy, ensuring precise and reliable predictions!
 
 🌟 Key Features
